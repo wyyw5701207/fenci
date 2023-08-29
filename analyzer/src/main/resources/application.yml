@@ -1,0 +1,14 @@
+logging:
+  level:
+    org.apache: error
+param:
+  # binary ik
+  analyzerType: "binary"
+  # title content abstract
+  rowName: "title"
+  # 整数
+  keyWordNum: 100
+  # 分词长度
+  wordLength: 4
+  # 文件夹路径
+  folderPath: C:\Users\Administrator\Desktop\fsdownload\test1
